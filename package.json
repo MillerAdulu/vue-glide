@@ -35,7 +35,7 @@
   "homepage": "https://github.com/antonreshetov/vue-glide#readme",
   "dependencies": {
     "@glidejs/glide": "^3.2.4",
-    "vue": "^2.5.16"
+    "vue": "^3.0.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.5",
